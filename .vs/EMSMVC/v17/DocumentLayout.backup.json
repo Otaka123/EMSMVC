@@ -1,0 +1,853 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Clean\\EMSMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\requestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\requestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\viewmodels\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\viewmodels\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\viewmodels\\updateuserrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\viewmodels\\updateuserrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\editrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\editrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\manageuserrolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\manageuserrolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\manageuserrolesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\manageuserrolesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\permissionapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\permissionapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\responseerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\responseerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\rolepermissionsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\rolepermissionsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\rolepermissionsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\rolepermissionsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\systemhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\systemhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\updaterolepermissionsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\updaterolepermissionsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\userroleinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\userroleinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\userregistrationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\userregistrationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\emsmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\emsmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\views\\users\\manageroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\views\\users\\manageroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\viewmodels\\rolepermissionsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\viewmodels\\rolepermissionsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\views\\roles\\permissions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\views\\roles\\permissions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\viewmodels\\updaterolepermissionsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\viewmodels\\updaterolepermissionsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\views\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\views\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\actiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\actiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\addrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\addrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\viewmodels\\userrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\viewmodels\\userrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\viewmodels\\userresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\viewmodels\\userresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|d:\\clean\\emsmvc\\emsmvc\\models\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77528D17-EF50-4C29-834D-654A1A9E6FAD}|EMSMVC\\EMSMVC.csproj|solutionrelative:emsmvc\\models\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 49,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T11:46:56.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EMSMVC",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\EMSMVC.csproj",
+              "RelativeDocumentMoniker": "EMSMVC\\EMSMVC.csproj",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\EMSMVC.csproj",
+              "RelativeToolTip": "EMSMVC\\EMSMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-28T11:32:54.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\ViewModels\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\ViewModels\\UpdateUserRequest.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\ViewModels\\UpdateUserRequest.cs",
+              "RelativeToolTip": "EMSMVC\\ViewModels\\UpdateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T11:24:56.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EMSMVC\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "EMSMVC\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T10:45:02.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ManageRoles.cshtml",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Users\\ManageRoles.cshtml",
+              "RelativeDocumentMoniker": "EMSMVC\\Views\\Users\\ManageRoles.cshtml",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Users\\ManageRoles.cshtml",
+              "RelativeToolTip": "EMSMVC\\Views\\Users\\ManageRoles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T09:34:03.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageUserRolesDTO.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\ManageUserRolesDTO.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\ManageUserRolesDTO.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\ManageUserRolesDTO.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\ManageUserRolesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T09:16:13.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "EMSMVC\\Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "EMSMVC\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T08:30:22.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateRolePermissionsViewModel.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\ViewModels\\UpdateRolePermissionsViewModel.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\ViewModels\\UpdateRolePermissionsViewModel.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\ViewModels\\UpdateRolePermissionsViewModel.cs",
+              "RelativeToolTip": "EMSMVC\\ViewModels\\UpdateRolePermissionsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:17:28.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RolePermissionsData.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\RolePermissionsData.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\RolePermissionsData.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\RolePermissionsData.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\RolePermissionsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:07:07.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PermissionApiResponse.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\PermissionApiResponse.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\PermissionApiResponse.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\PermissionApiResponse.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\PermissionApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:06:38.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Permissions.cshtml",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Roles\\Permissions.cshtml",
+              "RelativeDocumentMoniker": "EMSMVC\\Views\\Roles\\Permissions.cshtml",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Roles\\Permissions.cshtml",
+              "RelativeToolTip": "EMSMVC\\Views\\Roles\\Permissions.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T14:37:43.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Roles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EMSMVC\\Views\\Roles\\Edit.cshtml",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Roles\\Edit.cshtml",
+              "RelativeToolTip": "EMSMVC\\Views\\Roles\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T14:37:03.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "EMSMVC\\Views\\Roles\\Create.cshtml",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "EMSMVC\\Views\\Roles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T14:36:24.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "EMSMVC\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "EMSMVC\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T14:35:51.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ActionType.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\ActionType.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\ActionType.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\ActionType.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\ActionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:34:29.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateRolePermissionsRequest.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\UpdateRolePermissionsRequest.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\UpdateRolePermissionsRequest.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\UpdateRolePermissionsRequest.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\UpdateRolePermissionsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:33:01.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RolePermissionsResponse.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\RolePermissionsResponse.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\RolePermissionsResponse.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\RolePermissionsResponse.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\RolePermissionsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:32:46.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SystemHistory.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\SystemHistory.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\SystemHistory.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\SystemHistory.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\SystemHistory.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA9wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:32:14.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\Permission.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\Permission.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\Permission.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:31:35.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RolePermission.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\RolePermission.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\RolePermission.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\RolePermission.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\RolePermission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:31:04.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\ApplicationRole.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\ApplicationRole.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:30:17.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditRoleRequest.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\EditRoleRequest.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\EditRoleRequest.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\EditRoleRequest.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\EditRoleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:28:31.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AddRoleRequest.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\AddRoleRequest.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\AddRoleRequest.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\AddRoleRequest.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\AddRoleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:28:18.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PermissionDTO.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\PermissionDTO.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\PermissionDTO.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\PermissionDTO.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\PermissionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:28:04.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManageUserRolesRequest.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\ManageUserRolesRequest.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\ManageUserRolesRequest.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\ManageUserRolesRequest.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\ManageUserRolesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:27:50.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRoleInfo.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\UserRoleInfo.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\UserRoleInfo.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\UserRoleInfo.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\UserRoleInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:27:23.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserRolesViewModel.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\ViewModels\\UserRolesViewModel.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\ViewModels\\UserRolesViewModel.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\ViewModels\\UserRolesViewModel.cs",
+              "RelativeToolTip": "EMSMVC\\ViewModels\\UserRolesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:27:07.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RolePermissionsViewModel.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\ViewModels\\RolePermissionsViewModel.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\ViewModels\\RolePermissionsViewModel.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\ViewModels\\RolePermissionsViewModel.cs",
+              "RelativeToolTip": "EMSMVC\\ViewModels\\RolePermissionsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:26:51.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Controllers\\RolesController.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "EMSMVC\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwBQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:23:35.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "EMSMVC\\appsettings.json",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\appsettings.json",
+              "RelativeToolTip": "EMSMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-25T13:16:19.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "EMSMVC\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "EMSMVC\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAAOEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T13:15:43.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "EMSMVC\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAiwPUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:14:47.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Program.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Program.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Program.cs",
+              "RelativeToolTip": "EMSMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:14:10.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "EMSMVC\\Views\\Users\\Login.cshtml",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "EMSMVC\\Views\\Users\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T13:09:41.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "EMSMVC\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:08:37.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EMSMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EMSMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAowF8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T13:07:37.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "EMSMVC\\Views\\Users\\Create.cshtml",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "EMSMVC\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T13:07:30.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EMSMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EMSMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T13:06:13.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\LoginDTO.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\LoginDTO.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:05:18.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:03:59.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserResponseViewModel.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\ViewModels\\UserResponseViewModel.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\ViewModels\\UserResponseViewModel.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\ViewModels\\UserResponseViewModel.cs",
+              "RelativeToolTip": "EMSMVC\\ViewModels\\UserResponseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:02:51.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\UpdateUserRequest.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\UpdateUserRequest.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\UpdateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:01:09.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateUserRequestViewModel.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\ViewModels\\UpdateUserRequestViewModel.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\ViewModels\\UpdateUserRequestViewModel.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\ViewModels\\UpdateUserRequestViewModel.cs",
+              "RelativeToolTip": "EMSMVC\\ViewModels\\UpdateUserRequestViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:59:03.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserRegistrationResponse.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\UserRegistrationResponse.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\UserRegistrationResponse.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\UserRegistrationResponse.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\UserRegistrationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:56:29.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\UserResponse.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\UserResponse.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\UserResponse.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\UserResponse.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA5wCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:54:47.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ResponseError.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\ResponseError.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\ResponseError.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\ResponseError.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\ResponseError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:53:50.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestResponse.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\RequestResponse.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\RequestResponse.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\RequestResponse.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\RequestResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:53:46.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\PagedResult.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Models\\PagedResult.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Models\\PagedResult.cs",
+              "RelativeToolTip": "EMSMVC\\Models\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:51:37.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "EMSMVC\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADQBAAAAAAAAAAAuwEMBAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:42:26.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Clean\\EMSMVC\\EMSMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EMSMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Clean\\EMSMVC\\EMSMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EMSMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:40:41.461Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

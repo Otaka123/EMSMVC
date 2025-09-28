@@ -1,0 +1,186 @@
+﻿@model EMSMVC.ViewModels.UpdateUserRequest
+@{
+    ViewData["Title"] = "تعديل الملف الشخصي ";
+
+    Layout = "_Layout";
+
+}
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">
+                        <i class="fas fa-user-edit me-2"></i>تحديث بيانات المستخدم
+                    </h4>
+                </div>
+                <div class="card-body">
+                    <form id="updateUserForm" asp-action="Edit" asp-controller="Users" method="post" enctype="multipart/form-data">
+                        <input type="hidden" asp-for="UserId" />
+
+                        <!-- معلومات أساسية -->
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <label asp-for="FirstName" class="form-label">الاسم الأول</label>
+                                <input asp-for="FirstName" class="form-control" placeholder="أدخل الاسم الأول" />
+                                <span asp-validation-for="FirstName" class="text-danger small"></span>
+                            </div>
+                            <div class="col-md-6">
+                                <label asp-for="LastName" class="form-label">الاسم الأخير</label>
+                                <input asp-for="LastName" class="form-control" placeholder="أدخل الاسم الأخير" />
+                                <span asp-validation-for="LastName" class="text-danger small"></span>
+                            </div>
+                        </div>
+
+                        <!-- المعلومات الشخصية -->
+                        <div class="row mb-3">
+                            <div class="col-md-4">
+                                <label asp-for="DOB" class="form-label">تاريخ الميلاد</label>
+                                <input asp-for="DOB" type="date" class="form-control" />
+                                <span asp-validation-for="DOB" class="text-danger small"></span>
+                            </div>
+                            <div class="col-md-4">
+                                <label asp-for="Gender" class="form-label">الجنس</label>
+                                <select asp-for="Gender" class="form-select">
+                                    <option value="">اختر الجنس</option>
+                                    <option value="Male">ذكر</option>
+                                    <option value="Female">أنثى</option>
+                                </select>
+                                <span asp-validation-for="Gender" class="text-danger small"></span>
+                            </div>
+                            <div class="col-md-4">
+                                <label asp-for="Phone" class="form-label">رقم الهاتف</label>
+                                <input asp-for="Phone" class="form-control" placeholder="أدخل رقم الهاتف" />
+                                <span asp-validation-for="Phone" class="text-danger small"></span>
+                            </div>
+                        </div>
+
+                        <!-- العنوان -->
+                        <div class="mb-3">
+                            <label asp-for="Address" class="form-label">العنوان</label>
+                            <textarea asp-for="Address" class="form-control" rows="3" placeholder="أدخل العنوان الكامل"></textarea>
+                            <span asp-validation-for="Address" class="text-danger small"></span>
+                        </div>
+
+                        <!-- كلمة المرور الحالية -->
+                        <div class="mb-3">
+                            <label asp-for="CurrentPassword" class="form-label">كلمة المرور الحالية</label>
+                            <input asp-for="CurrentPassword" type="password" class="form-control" placeholder="أدخل كلمة المرور الحالية" />
+                            <span asp-validation-for="CurrentPassword" class="text-danger small"></span>
+                            <div class="form-text">مطلوبة لتأكيد هويتك</div>
+                        </div>
+
+                        <!-- أزرار التحكم -->
+                        <div class="d-flex justify-content-between mt-4">
+                            <button type="button" class="btn btn-secondary" onclick="history.back()">
+                                <i class="fas fa-arrow-right me-2"></i>رجوع
+                            </button>
+                            <div>
+                                <button type="reset" class="btn btn-outline-secondary me-2">
+                                    <i class="fas fa-redo me-2"></i>إعادة تعيين
+                                </button>
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="fas fa-save me-2"></i>حفظ التغييرات
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            // التحقق من النموذج قبل الإرسال
+            $('#updateUserForm').on('submit', function (e) {
+                if (!$(this).valid()) {
+                    e.preventDefault();
+                    showToast('error', 'يرجى تصحيح الأخطاء في النموذج');
+                }
+            });
+
+            // إظهار رسالة نجاح إذا كانت هناك رسالة في TempData
+            @if (TempData["SuccessMessage"] != null)
+            {
+                    <text>
+                    showToast('success', '@TempData["SuccessMessage"]');
+                    </text>
+            }
+
+            @if (TempData["ErrorMessage"] != null)
+            {
+                    <text>
+                    showToast('error', '@TempData["ErrorMessage"]');
+                    </text>
+            }
+        });
+
+        // دالة لإظهار الرسائل
+        function showToast(type, message) {
+            const toast = document.createElement('div');
+            toast.className = `toast align-items-center text-white bg-${type === 'success' ? 'success' : 'danger'} border-0`;
+            toast.innerHTML = `
+                <div class="d-flex">
+                    <div class="toast-body">${message}</div>
+                    <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast"></button>
+                </div>
+            `;
+
+            const toastContainer = document.createElement('div');
+            toastContainer.className = 'toast-container position-fixed top-0 end-0 p-3';
+            toastContainer.appendChild(toast);
+
+            document.body.appendChild(toastContainer);
+
+            const bsToast = new bootstrap.Toast(toast);
+            bsToast.show();
+
+            // إزالة الـ toast بعد الاختفاء
+            toast.addEventListener('hidden.bs.toast', function () {
+                document.body.removeChild(toastContainer);
+            });
+        }
+    </script>
+
+    <style>
+        .card {
+            border: none;
+            border-radius: 15px;
+        }
+
+        .card-header {
+            border-radius: 15px 15px 0 0 !important;
+            border: none;
+        }
+
+        .form-control, .form-select {
+            border-radius: 10px;
+            border: 1px solid #dee2e6;
+            transition: all 0.3s;
+        }
+
+            .form-control:focus, .form-select:focus {
+                border-color: #0d6efd;
+                box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
+            }
+
+        .btn {
+            border-radius: 10px;
+            padding: 10px 20px;
+            font-weight: 500;
+        }
+
+        label {
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #495057;
+        }
+
+        .toast-container {
+            z-index: 9999;
+        }
+    </style>
+}
